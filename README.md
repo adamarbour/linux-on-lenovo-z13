@@ -1,2 +1,15 @@
-# linux-on-lenovo-z13
-Field notes from my installation of Linux on my Lenovo z13
+# Linux on Lenovo z13
+Field notes from my installation of Linux on my Lenovo z13...
+
+Current Distro: Chimera Linux [^1]
+[^1]: https://chimera-linux.org/docs/faq#is-chimera-a-fork
+
+__Technical Specifications:__
+- AMD Ryzen 7 PRO 6860Z
+- AMD Radeon 680M Graphics
+- 13.3" 2.8K (2880 x 1800) OLED, 400 nits
+- 32 GB LPDDR5 6400MHz
+- WiFi 6E* 802.11AX (2 x 2) 
+- WWAN** Fibocom L860-GL-16 4G
+
+
