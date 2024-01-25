@@ -17,7 +17,7 @@ The table of contents below outlines the setup of my laptop to my personal taste
 ## ToC
 1. [Installation](./001.1-installation-chimera.md)
 2. Driver Tweaks + Peripherals
-3. Power Management
+3. [Power Management](./003-power-management.md)
 4. Desktop Experience
 6. Password Management + Browser
 7. Email, Calendar & Chat
