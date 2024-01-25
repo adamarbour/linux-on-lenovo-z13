@@ -15,7 +15,7 @@ __Technical Specifications:__
 The table of contents below outlines the setup of my laptop to my personal tastes and preferences to achieve specific use cases and allow this implementation to be my daily driver so I can work efficiently and effectively.
 
 ## ToC
-1. Installation
+1. [Installation](./001.1-installation-chimera.md)
 2. Driver Tweaks + Periferals
 3. Power Management
 4. Desktop Experience
