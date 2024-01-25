@@ -12,4 +12,17 @@ __Technical Specifications:__
 - WiFi 6E* 802.11AX (2 x 2) 
 - WWAN** Fibocom L860-GL-16 4G
 
+The table of contents below outlines the setup of my laptop to my personal tastes and preferences to achieve specific use cases and allow this implementation to be my daily driver so I can work efficiently and effectively.
 
+## ToC
+1. Installation
+2. Driver Tweaks + Periferals
+3. Power Management
+4. Desktop Experience
+6. Password Management + Browser
+7. Email, Calendar & Chat
+8. Banking
+9. Second Brain
+10. Development & Contributions
+11. Artificial Intelligence
+12. ...
