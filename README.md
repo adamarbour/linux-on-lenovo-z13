@@ -9,8 +9,8 @@ __Technical Specifications:__
 - AMD Radeon 680M Graphics
 - 13.3" 2.8K (2880 x 1800) OLED, 400 nits
 - 32 GB LPDDR5 6400MHz
-- WiFi 6E* 802.11AX (2 x 2) 
-- WWAN** Fibocom L860-GL-16 4G
+- WiFi - Qualcomm QCNFA765
+- WWAN - Intel XMM7560
 
 The table of contents below outlines the setup of my laptop to my personal tastes and preferences to achieve specific use cases and allow this implementation to be my daily driver so I can work efficiently and effectively.
 
