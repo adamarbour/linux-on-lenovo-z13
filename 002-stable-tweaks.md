@@ -31,3 +31,9 @@ nano /etc/doas.conf
 # Add the following...
 permit  nopass  :wheel  as root  cmd /usr/bin/modprobe
 ```
+## Video Drivers
+There is a strange issue with the video on resume that can be sped up by adding the following to the kernel command line.[^1]
+[^1]: https://forums.lenovo.com/t5/Fedora/drm-amdgpu-job-timedout-amdgpu-ERROR-ring-sdma0-timeout/m-p/5227959?page=3
+```bash
+amdgpu.vm_update=3
+```
